@@ -1,0 +1,334 @@
+Lua Translation:
+ Elements:
+  ^FF0000 = Fire
+  ^0000BB = Water
+  ^CC5500 = Earth
+  ^33CC00 = Wind
+  ^663399 = Poison
+  ^777777 = Ghost, Undead, Holy, Shadow and Neutral = iteminfo
+  ^009999 = Ghost, Undead, Holy, Shadow and Neutral = skillinfo
+  
+Misc
+  ^CC6600 = Status (STR,AGI,...)/Base Level
+  ^0000FF = Numbers
+  ^663399 = Debuff (Curse, Freeze,...)
+  ^0033CC = Location
+  ^FF0000 = Race/Size
+  ^0033CC = Job Classes
+
+Skill Description:
+	^0000FF = Skill Names + Status (Hiding,...)
+	^990099 = Item Names + Skill Requirements (Spirit Spheres,...)
+	^0033CC = Race/Class/Size/Elementals/Machines
+	
+	"Max Level:
+	
+	"^CC3399Requirement: Divine Protection 5^000000",
+	with Job ID before:
+	"4^CC3399Requirement: Heal 2^000000",
+
+	"Skill Form: ^6666CCPassive^000000",
+	"Skill Form: ^339966Active^000000",
+	"Skill Form: ^339966Active (Toggle)^000000",
+	
+	"Type: ^339900Supportive^000000",
+	"Type: ^339900Recovery^000000",
+	"Type: ^339900Designation^000000",
+	"Type: ^339900Crafting^000000",
+	"Type: ^339900FAW^000000",
+	"Type: ^339900Summon^000000",
+	
+	"Type: ^000099Trap (Hidden)^000000",
+	"Type: ^000099Trap (Visible)^000000",
+	"Type: ^000099Trap^000000",
+	"Type: ^000099Planting^000000",
+	"Type: ^000099Song Skill^000000",
+	"Type: ^000099Dance Skill^000000",
+	"Type: ^000099Ensemble Skill^000000",
+	"Type: ^000099Stance Skill^000000",
+	
+	"Type: ^FF0000Debuff^000000",
+	"Type: ^FF0000Physical Melee^000000",
+	"Type: ^FF0000Physical Ranged^000000",
+	"Type: ^FF0000Special^000000",
+	"Type: ^FF0000Special Physical^000000",
+	"Type: ^FF0000Special Physical Ranged^000000",
+	
+	"Type: ^FF0000Magical^000000",
+	"Type: ^FF0000Magical, AoE^000000",
+	"Type: ^FF0000Magical, Debuff^000000",
+	
+	"Range: ^7777779x9 AoE^000000",
+	"Range: ^777777^000000",
+	
+	"Target: ^6666CCHomunculus^000000",
+	"Target: ^6666CCSummon^000000",
+	"Target: ^6666CCElemental^000000", = Sorcerer Summon
+	"Target: ^6666CCCaster^000000",
+	"Target: ^6666CCGround^000000",
+	"Target: ^6666CC1 Character^000000",
+	"Target: ^6666CCEnemies on the screen^000000",
+	"Target: ^6666CCEnemies around the caster^000000",
+	"Target: ^6666CCAround the caster^000000",
+	"Target: ^6666CCCaster's View Range^000000",
+	"Target: ^6666CCCaster and Party Members^000000",
+	"Target: ^6666CC1 Party Member^000000",
+	
+	"Description: ^777777 ^000000",
+
+	- 4th Classes:
+	"Skill Form: ^339966Active(AP)^000000",
+	"Recover: ^0054FF AP^000000",
+	"Cost: ^FF0000150 AP^000000",
+
+Item Description:
+	unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
+	
+	- Stats Codings:
+	"Base ^CC6600AGI^000000 is at least ^FF000070^000000:",
+	"Bonus ^CC6600STR^000000 is at least ^FF0000+10^000000:",
+	"^CC6600Base Level^000000 is at least ^FF0000100^000000:",
+	"^CC6600Base Level^000000 is ^FF000099^000000 or less:",
+	"^CC6600Base Level^000000 is less than ^FF0000175^000000:",
+	"For each ^0000FF20^000000 base ^CC6600STR^000000:",
+	"For each ^0000FF20^000000 combined sum of base ^CC6600AGI^000000 and ^CC6600VIT^000000:",
+	"For each ^0000FF50 ^CC6600Base Level^000000:",
+	"STR +",
+	"AGI +",
+	"VIT +",
+	"INT +",
+	"DEX +",
+	"LUK +",
+	"ATK +", "ATK +%",
+	"MATK +", "MATK +%",
+	"DEF +", "DEF +%",
+	"MDEF +", "MDEF +%",
+	"HIT +", "FLEE +",
+	"Perfect Dodge +",
+	"Perfect HIT +", "Perfect HIT +%",
+	"MaxHP +", "MaxHP +%",
+	"MaxSP +", "MaxSP +%",
+	"Increases HP Recovery Rate by %.",
+	"Increases SP Recovery Rate by %.",
+	"Attack Range: x cells",
+	
+	"Inflict % more damage on ^0033CC<Monster>^000000.",
+	
+	"Increases physical damage against ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Increases physical damage against ^<Element>^000000 elemental monsters by %.",
+	"Increases magical damage against ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Increases magical damage against ^<Element>^000000 elemental monsters by %.",
+	"Increases physical and magical damage against ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Increases physical and magical damage against ^<Element>^000000 elemental monsters by %.",
+	"Increases physical and magical damage on Memorial Dungeon's ^0033CC<Instance Name>^000000 monsters by 15%.",
+	
+	"Decreases damage taken from ^FF000<Race/Size/Class>^000000 race/sized/class monsters by %.",
+	"Decreases damage taken from ^<Element>^000000 elemental monsters by %.",
+	
+	- Consumable Items:
+	^0033CC = Specific Recovery Item
+	^990099Recovery Items^000000
+	"^0000CCEffect:^000000", > Used at buff/heal items
+	
+	> 4th Classes:
+	"POW +",
+	"STA +",
+	"WIS +",
+	"SPL +",
+	"CON +",
+	"CRT +",
+	"P.ATK +",
+	"S.MATK +",
+	"H.PLUS +",
+	"C.RATE +",
+	"RES +",
+	"MRES +",
+	
+	"<STAT> +1 multiplied with total skill level of ^0033CC<Class>^000000's exclusive/related skills:",
+	"^009900<Skill List> and <Last Skill>^000000",
+	
+	- Skill Codings:
+	"For each Level of ^009900<Skill>^000000:",
+	"Increases damage of ^009900<Skill>^000000 by %.",
+	"Enables the use of ^0000FF<Skill>^000000.",
+	"Enables the use of Level X ^0000FF<Skill>^000000.",
+	"When ^009900<Skill>^000000 is used:",
+	"When ^009900<Skill>^000000 is mastered:",
+	"When Level X ^009900<Skill>^000000 is learned:",
+	"When ^0033CC<Base Class>^000000 classes uses ^009900<Skill List>^000000 or ^009900<Last Skill>^000000:",
+	
+	"Enables interrupted skill casting.",
+	"Nullifies Gemstone requirement of certain skills.",
+	"Nullifies weapon damage size penalty against all monsters.",
+	
+	"Decreases ^009900<Skill>^000000 skill cooldown by seconds.",
+	"Decreases ^009900<Skill>^000000 skill cooldown by second.",
+	"Decreases ^009900<Skill>^000000 skill cooldown by %.",
+	
+	"Decreases SP Consumption of all skills by .",
+	"Decreases SP Consumption of ^009900<Skill>^000000 by .",
+	
+	"Decreases After Skill Delay of all skills by %.",
+	"Decreases After Skill Delay of ^009900<Skill>^000000 by %.",
+	
+	"Decreases Variable Casting Time of all skills by %.",
+	"Decreases Variable Casting Time of ^009900<Skill>^000000 by %.",
+	
+	"Decreases Fixed Casting Time of all skills by %.",
+	"Decreases Fixed Casting Time of ^009900<Skill>^000000 by %.",
+	
+	"For the highest Level of either ^009900<Skill>^000000, ^009900<Skill>^000000 or ^009900<Skill>^000000,",
+	"increase damage dealt with ^009900<Skill>^000000 by % per skill Level.",
+	
+	"Physical attacks have a certain chance to auto cast Level X ^009900<Skill>^000000. (If you learned a higher Level, it will auto cast that Level instead.)",
+
+	- Basic Equipment Codings:
+	"When equipped with ^990099<Equipment>^000000:",
+	"When equipped with 2 types of ^990099<Class> Shadow^000000, ^990099<Class> Shadow^000000 or ^990099<Class> Shadow^000000 Equipment:",
+	"When equipped by ^0033CC<Base Class>^000000 classes:",
+	"When equipped by ^0033CC<Certain Class>^000000:",
+	"When equipped as ^990099Accessory Right^000000:", -> Accessory (1)
+	"When equipped as ^990099Accessory Left^000000:", -> Accessory (2)
+	
+	"^663399Indestructible in battle^000000",
+	
+	- Basic Card Compounding:
+	"When compounded on ^990099<Equipment>^000000:",
+	
+	- Basic Enchantment
+	"When enchanted with ^990099<Equipment>^000000:",
+	
+	- Refine Codings:
+	"^000088Cannot be refined normally.^000000",
+	"^000088Cannot be refined.^000000",
+	
+	"^0000FFFor each Refine Level^000000:",
+	"^0000FFFor each Refine Level^000000 of ^990099<Equipment>^000000:",
+	"^0000FFFor each Refine Level^000000 equal or above ^0000FF+9^000000 of ^990099<Equipment>^000000 and ^990099<Equipment>^000000:",
+	"^0000FFFor each Refine Level^000000 equal or above ^0000FF+6^000000:",
+	"^0000FFFor each Refine Level^000000 above ^0000FF+6^000000:",
+	"^0000FFFor each 2 Refine Levels^000000 of equipped ^990099<Equipment Type>^000000:",
+	"^0000FFFor each 2 Refine Levels^000000:",
+	"^0000FFRefine Level +7^000000:",
+	"^0000FFUp to max +5 Refine Level^000000:",
+	"If ^0000FFRefine Level^000000 of equipped ^990099<Equipment Type>^000000 is ^0000FF+7 or higher^000000:",
+	"If ^0000FFRefine Level^000000 of ^990099<Equipment>^000000 is ^0000FF+7 or higher^000000:",
+	
+	- Refine Codings in combination
+	"If ^0000FFtotal Refine Level^000000 of ^990099<Equipment>^000000, ^990099<Equipment>^000000 and ^990099<Equipment>^000000 is ^0000FF+27 or higher^000000:",
+	"If ^0000FFtotal Refine Level of entire set^000000 at least ^0000FF+14^000000:",
+	"^0000FFFor each Refine Level^000000 of ^0000FFentire set^000000:",
+	"^0000FFFor each 5 Refine Levels^000000 of ^0000FFentire set^000000:",
+	
+	- Player died:
+	"If you are incapacitated, the mercenary will disappear.",
+	"If you are incapacitated or hit by the Dispell skill, the item effect will disappear.",
+	"If you are incapacitated, the item effect will disappear.",
+	"^000088When player's character KO'd, the buff effect will wear off.^000000",
+	
+	"Warning - After using it, unless you choose the destination in 1 minute it will be useless",
+	
+	- Rental Items:
+	"^000088Rental Item^000000",
+	"^ff0000This item is not refundable.^000000",
+	"^ff0000If you open this item, it is not refundable anymore.^000000",
+	"^ff0000This item cannot be traded with other accounts.^000000",
+	"^ff0000This item cannot be traded or moved to storage.^000000",
+	
+	"^ff0000This item can only be sold to NPCs and moved to storage.^000000",
+	"^ff0000This item can only be sold to NPCs.",
+	"^ff0000This item will not be used in future events.^000000",
+	
+Equipment Info:
+			"________________________",
+			"^0000CCType:^000000 ",
+			"^0000CCAttack:^000000 ",
+			"^0000CCDefense:^000000 ",
+			"^0000CCPosition:^000000 ",
+			"^0000CCElement:<Element Color Code> ", > Look at the beginning of this file
+			"^0000CCWeight:^000000 ",
+			"^0000CCRefineable:^000000 No", > Only used when the item is NOT refinable
+			"^0000CCArmor Level:^000000 ",
+			"^0000CCWeapon Level:^000000 ",
+			"________________________",
+			"^0000CCRequirement:^000000",
+			"Base Level X",
+			"<Job Classes>"
+
+Exchange NPC Locations:
+	"<NAVI>^0033CCDesigner Heidam^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 5.",
+		
+	"X can be obtained from",
+	"<NAVI>^4D4DFF[Cat Salesman Nyarom]^000000<INFO>itemmall,41,50,0,100,0,0</INFO></NAVI>^000000,",
+	"by using Silvervine Cat Fruit or Zeny.",
+	
+	"<NAVI>^4D4DFFCentro^000000<INFO>prontera,166,300,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^4D4DFFYves^000000<INFO>malangdo,152,136,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^4D4DFFRS26-1^000000<INFO>sp_cor,98,136,0,100,0,0</INFO></NAVI>^000000",
+	
+	"<NAVI>^0033CCLace La Zard^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+	"<NAVI>^0033CCAver De Dosh^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+	"<NAVI>^0033CCGregio Grumani^000000<INFO>mal_in01,24,121,0,100,0,0</INFO></NAVI>",
+	"<NAVI>^4D4DFFNyan Time^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^4D4DFFNyan Time^000000<INFO>moc_para01,26,174,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^0033CCProntera Family Relations Guide^000000<INFO>prt_in,285,171,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^0033CCLasagna Independent Helper^000000<INFO>lasagna,100,200,0,100,0,0</INFO></NAVI>^000000",
+	"<NAVI>^0033CCBeginner's Weapon Manager^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000",
+	"Take it to <NAVI>^0033CCEquipment Support Manager^000000<INFO>prontera,157,279,0,100,0,0</INFO></NAVI>^000000.",
+	"Take it to <NAVI>^4D4DFFCentro^000000<INFO>prontera,148,282,0,100,0,0</INFO></NAVI>^000000 and exchange it for one of the items below:",
+	
+Shadow Equipment:
+	Armor: "A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
+	Weapon: "A pair of gloves that can draw the wearer's potential ability.",
+	Pendant: "A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
+	Earring: "A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
+	Shield: "A small shield worn on the arm for additional defense. Needs a complete set to have bonus effect.",
+	Shoes: "A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
+
+Enchant Stones:
+	Item Display Names:
+	Upper
+	Mid
+	Lower
+	Garment
+
+	Descriptions:
+	"A stone that awakens the potential of <Class>.",
+	"Gives the following effects when compounded on a slot of an Costume Upper Headgear.",
+	"Gives the following effects when compounded on a slot of an Costume Middle Headgear.",
+	"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+	"Gives the following effects when compounded on a slot of an Costume Garment.",
+
+Grade Options:
+	"^CC3D3D[Additional Options by Grade]^000000",
+	"[Grade D]: Effect>",
+
+	Refine Level:
+	<Effect> per ^0000FF2 Refine Levels^000000
+
+Equipped Effect:
+	"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
+	
+	"^006400This item is equipped with special effects:",
+	"- When the effect (/effect) is switched, the display does not change immediately, so it is necessary to re-equip the item after entering the command.",
+	"- When using a disappearing skill such as \"Hiding\", the effect will not be visible to other players.",
+	"- Even when equipped with an adopted character, the same effect as a normal character will be displayed.^000000",
+	
+	"^000088The graphic is reflected on the character.^000000",
+	
+jRO Egg Description:
+			"A magical egg that pops out outfits when opened.",
+			"________________________",
+			"Any of the following costume equipment will appear at random.^0000FF",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ",
+			"- Costume ^000000",
+			"________________________",
+			"^0000CCWeight:^000000 1"
