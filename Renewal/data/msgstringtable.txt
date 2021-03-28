@@ -1,305 +1,305 @@
-Do you agree?#
-Failed to Connect to Server.#
-Disconnected from Server.#
-Disconnected from Server!#
-Server Closed.#
-Someone has Logged in with this ID.#
-Unregistered ID. Please make sure you have a registered account and you have correctly typed in the user ID.#
-Incorrect User ID or Password. Please try again.#
-This ID is expired.#
-Rejected from Server.#
-Character Name already exists.#
-Character Creation is denied.#
-Character Deletion is denied.#
-Please Enter Room Title.#
-Foul Language Detected.#
-Please enter Password.#
-Please enter Password. Passwords must be at least 4 characters long.#
-Are you sure that you want to quit?#
-Passwords are at least 4 characters long. Please try again.#
-Are you sure that you want to delete this character?#
-Foul Language Detected.#
-Character Name must be at least 4 characters long.#
-Command List: /h | /help#
-Effects On#
-Effects Off#
-Sound Volume#
-BGM Volume#
-Sound Effects On#
-Sound Effects Off#
-Frame Skip On#
-Frame Skip Off#
-BGM On#
-BGM Off#
-/h or /help: Shows this Command Help List#
-/w or /who or /player or /who : wiew current the number of player#
-/music: Turns BGM On or Off#
+Você concorda?#
+Não foi possível conectar-se ao servidor.#
+Desconectado do servidor.#
+Desconectado do servidor!#
+Servidor fechado.#
+Alguém já está utilizando esta conta.#
+Conta não registrada. Certifique-se de que registrou corretamente.#
+Senha incorreta. Tente novamente.#
+Esta conta expirou e não é mais válida.#
+Recusado pelo servidor.#
+Já existe um personagem com este nome.#
+Criação de personagem negada.#
+Tentativa de deletar personagem negada.#
+Digite o nome de sua sala.#
+Vou lavar sua boca com sabão!#
+Digite sua senha.#
+Digite sua senha. A senha deve ter pelo menos 4 caracteres.#
+Tem certeza que deseja sair?#
+As senhas devem ter pelo menos 4 caracteres.  Tente novamente.#
+Tem certeza que deseja deletar este personagem?#
+Vou lavar sua boca com sabão!#
+O nome do personagem deve ter pelo menos 4 caracteres.#
+Lista de comandos: /h | /help#
+Efeitos Ligados#
+Efeitos Desligados#
+Volume de Som#
+Volume de Música de Fundo#
+Efeitos Sonoros Ligados#
+Efeitos Sonoros Desligados#
+Pular Frames Ligado#
+Pular Frames Desligado#
+Música de Fundo Ligada#
+Música de Fundo Desligada#
+/h ou /help: Mostra a lista de comandos.#
+/w ou /who ou /player: mostra o número de jogadores on-line#
+/music: Liga ou Desliga a Música de Fundo#
 /sound: Turns Sound Effects On or Off#
-/effect: Effects On or Off#
-/where: Shows your present location#
-/skip: Turns Frame Skip On or Off#
-/v (0~127): Controls the volume of the Sound Effects#
-/bv (0~127): Controls the volume of the BGM#
-/ex (Character Name): Blocks whispering from the Character#
-/ex: View a list of Characters you have Blocked#
-/in (Character Name): Allows whispering from the Character#
-/inall: Allows whispers from anyone#
-/exall: Blocks whispers from everyone#
-Right click on a character and select [Register as a Friend] to add a person to your Friend List.#
-F12 Brings up a Hotkey Window which allows you to drag and drop Recovery Items, Equipment and Skills into it for faster access.#
-You can't type the same word/phrase more than 3 times.#
-Chat Filter: Yeah, uh, I don't think so buddy...#
-You cannot overlap items on a window.#
-You cannot carry more items because you are overweight.#
-You cannot get the item.#
-The deal has successfully completed.#
-You do not have enough zeny.#
-You are over your Weight Limit.#
-The deal has failed.#
-You've blocked whispers from everyone.#
-You've failed to block all whispers.#
-You've allowed whispers from everyone.#
-You've failed to allow all whispers.#
-You have no Block List.#
-[ Character Block List ]#
-Room has been successfully created.#
-Room Limit Exceeded.#
-Same Room exists.#
-The Room is full.#
-You have been kicked out of this room.#
-The deal has been rejected.#
-You are too far away from the person to trade.#
-The Character is not currently online or does not exist.#
-The person is in another deal.#
-You cannot trade because this character will exceed his weight limit.#
-The deal has been canceled.#
-The deal has successfully completed.#
-The deal has failed.#
-Party has successfully been organized.#
-That Party Name already exists.#
-The Character is already in a party.#
-The Character already joined another party.#
-Request for party rejected.#
-Request for party accepted.#
-Party Capacity exceeded.#
-You left the party.#
-Send to All#
-Send to Party#
-Send transaction request#
-Send party invitation#
-Pri:#
-Pub:#
-Click ''Restart'' to go back to your save point or click ''Exit'' to select another character.#
-Please select a Deal Type.#
- requests a deal.#
- Party has sent you an invitation. Would you like to join?#
-Invalid Command#
-Leave party#
-Expel from party#
-Send Message#
-1:1 Chat#
-Information#
-Party Setup#
-Friend#
-Party#
-Equipped items#
-Status#
-Inventory#
-/organize ''Party Name'' To organize a party. Type /leave To leave a Party.#
-If you are the party master, you can invite someone into your party by right-clicking on a Character.#
-Recover#
-Attack#
-Support#
-Entire#
-Weapon#
-Defense#
-Water#
-Earth#
-Fire#
-Wind#
-Please avoid buying 2 of the same items at one time.#
-Please change your desktop Color Depth to 16-bit when running Ragnarok in windowed mode.#
-Please wait...#
-Please wait...#
-Please wait...#
-Please wait...#
-Create Chat Room#
-Room Setup#
-Kick Character Out#
-Give Master Authority#
-View Information#
-Chat Room#
-Ppl#
-/sit: Sit command. If you are sitting, you will stand instead.#
-/stand: Stand command. If you are standing, you will sit instead.#
-/chat: Creates a Chat Room#
-/q: Leaves a Chat Room#
-/deal ''Character Name'' Requests a deal with a character#
-/organize ''Party Name'' Organizes a party#
-/leave: Leaves a party#
-/expel ''Character Name'' kicks a Character out of your party#
-[Alt] + [End]: Turns HP/SP Bar On or Off#
-[Alt] + [Home]: Turns Ground Cursor On or Off#
-[Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
-Congratulations! You are the MVP! Your reward item is #
-!!#
-Congratulations! You are the MVP! Your reward EXP Points are #
-!!#
-You are the MVP, but you can't take the reward because you are over your weight limit.#
-There is no such character name or the user is offline.#
- doesn't want to receive your messages.#
- is not in the mood to talk with anyone.#
-Killed/Disconnected User.#
-Kill has failed.#
-You got %s (%d).#
-[Alt] + [=]: Fix the interval error between letters.#
-[F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
-How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/??,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
-How to Speak to Party: Add '%' in front of every message.(Example: \%Hello\)#
-You haven't learned enough Basic Skills to Trade.#
-You haven't learned enough Basic Skills to use Emotion icons.#
-You haven't learned enough Basic Skills to Sit.#
-You haven't learned enough Basic Skills to create a chat room.#
-You haven't learned enough Basic Skills to Party.#
-You haven't learned enough skills to Shout.#
-You haven't learned enough skills for Pking.#
-Buying Items#
-Item Shop#
-Selling Items#
-Storage#
- is put on.#
- is taken off.#
-To add names on the Whispering List#
-How to Take Screen Shots: Press [Print Screen] or [Scroll Lock]#
-Tip of the Day#
-^3850a0Did you know...?^709fed#
-Display at startup#
-/tip: Opens ''Tip of the Day''#
-There are %d Players Currently Connected.#
-(%s) has entered.#
-(%s) has left.#
-(%s) was kicked out.#
- %d ea.#
-%s: %d ea.#
-%s %s: %d ea.#
-Available Items to sell#
-Shop Items#
-Unknown Area#
-Your Client language doesn't match the Server language.#
-Please move your equipment to the inventory. And close the equipment window.#
-This server provides English Text Characters Only.#
-This is not implemented yet.#
-No Whisper List.#
-: Whispering Blocked.#
-: Whispering Block has failed.#
-: Whispering Block has failed. Block List is full.#
-: Whispering accepted.#
-: Command has failed.#
-: Command has failed. Block List is full.#
-You cannot put a space at the beginning or end of a name.#
-Private#
-Public#
-Insufficient SP#
-Insufficient HP#
-Skill has failed.#
-Steal has failed.#
-Trade#
-Envenom skill has failed.#
-You cannot use this ID on this server.#
-Speed has increased.#
-Speed has decreased.#
-/memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
-Random Area#
-Select an Area to Warp#
-Skill Level is not high enough#
-There are no memorized locations (Memo Points).#
-You haven't learned Warp skill.#
-Current location is saved as a Memo Point for Warp Skill.#
-Cancel#
-There is a Delay after using a Skill.#
-You can't have this item because you will exceed the weight limit.#
-Out of the maximum capacity#
-Cart Items#
-Take off Cart#
-Opening a stall#
-Please Name your Shop.#
-My Shop#
-Merchant Shop#
-Buying Items#
-%s Purchase Failed %s#
-Out of Stock#
-%s %d sold.#
-Available Items for Vending#
-Skill has failed because you do not have enough zeny.#
-Select a Target.#
-/pk on: Turns PK On. /pk off: Turns PK Off.#
-Shop#
-Cart Items [Alt+W]#
-Basic Information#
-The skill cannot be used with this weapon.#
-Buying %s has been failed. Out of Stock. Current Stock %d.#
-You've been disconnected due to a time gap between you and the server.#
-Please equip the proper ammunition first.#
-You can't attack or use skills because you've exceeded the Weight Limit.#
-You can't use skills because you've exceeded the Weight Limit.#
-Ammunition has been equipped.#
-Red Gemstone required.#
-Blue Gemstone required.#
-Strength#
-Agility#
-Vitality#
-Intelligence#
-Dexterity#
-Luck#
-Physical Attack#
-Physical Defense#
-Accuracy Rate#
-Critical Attack Rate#
-Assigned Guild#
-Status Points to allocate#
-Magical Attack#
-Magical Defense#
-Flee Rate#
-Attack Speed#
-Server is jammed due to over population. Please try again shortly.#
-Option#
-Account ID blocked by the Game Master Team.#
-Incorrect User ID or Password. Please try again.#
-Choose Hairstyle#
-ATK#
-DEF#
-Attack Snap On#
-Attack Snap Off#
-Skill Snap On#
-Skill Snap Off#
-/snap: Turns snap On | Off for fights, /skillsnap: Turns snap On | Off for skills. /itemsnap: Turns snap On | Off for items on the grounds.#
-Item Snap On#
-Item Snap Off#
+/sound: Liga ou Desliga os Efeitos Sonoros#
+/where: Mostra sua localização atual com as coordenadas do mapa#
+/skip: Liga ou Desliga a opção de Pular Frames#
+/v (0~127): Controla o volume dos Efeitos Sonoros#
+/bv (0~127): Controla o volume da Música de Fundo#
+/ex <Nome de um Personagem>: Bloqueia mensagens particulares de um personagem#
+/ex: Mostra a lista de personagens bloqueados#
+/in <Nome de um Personagem>: Desbloqueia as mensagens particulares de um personagem#
+/inall: Desbloqueia todas as mensagens particulares#
+/exall: Bloqueia todas as mensagens particulares#
+Clique com o botão direito do mouse em um personagem e selecione "Registrar como Contato" para adicioná-lo a sua Lista de Contatos.#
+F12 - Mostra uma tela de atalho que permite que você arraste Itens, Equipamentos, e/ou Habilidades para um acesso mais rápido.#
+Você não pode digitar a mesma palavra/frase mais do que 3 vezes.#
+Vou lavar sua boca com sabão!#
+Você não pode sobrepor um tipo de item na janela.#
+Você não pode carregar mais itens porque está com peso em excesso.#
+Este item não lhe é de direito.#
+A negociação foi completada com sucesso.#
+Você não tem Zeny suficiente.#
+Você está com peso acima do permitido.#
+A negociação falhou.#
+Você bloqueou as mensagens particulares.#
+Você não conseguiu bloquear as mensagens particulares.#
+Você desbloqueou as mensagens particulares.#
+Você não conseguiu desbloquear as mensagens particulares.#
+Você não tem Lista de Bloqueados.#
+[ Lista de Personagens Bloqueados ]#
+Sala criada com sucesso.#
+Além do limite da sala.#
+Já existe esta sala.#
+A Sala está lotada.#
+Você foi retirado da sala.#
+A negociação foi recusada.#
+Você está muito distante da pessoa para trocar.#
+O personagem não está on-line ou não existe.#
+A pessoa está em outra negociação.#
+A pessoa está com excesso de carga, ela não pode realizar a troca.#
+A negociação foi cancelada.#
+A negociação foi completada com sucesso.#
+A negociação falhou.#
+Grupo criado com sucesso.#
+Já existe um grupo com este nome.#
+O personagem já está em um grupo.#
+O personagem já entrou para outro grupo.#
+Convite para grupo recusado.#
+Convite para grupo aceito.#
+Grupo acima da capacidade de pessoas.#
+Você saiu do grupo.#
+Enviar para todos#
+Enviar para grupo#
+Propor uma negociação#
+Convidar para o grupo#
+Par:#
+Púb:#
+Aperte "Reiniciar" para voltar a seu ponto de retorno ou aperte "Sair" para selecionar outro personagem.#
+Selecione o tipo de negociação.#
+ propõe uma negociação.#
+ Você foi convidado para se juntar a este grupo. Você aceita o convite?#
+Comando Inválido#
+Deixar grupo#
+Excluir do grupo#
+Enviar mensagem#
+Mensagem Particular#
+Informações#
+Configurar Grupo#
+Contatos#
+Grupo#
+Equipamento#
+Atributos#
+Inventário#
+/organize "Nome do Grupo": Para organizar um grupo.  Digite "/leave" para deixar o grupo.#
+Se você for o líder do grupo, você pode convidar alguém para seu grupo, clicando com o botão direito do mouse no personagem.#
+Recuperar#
+Atacar#
+Apoiar#
+Inteiro#
+Arma#
+Defesa#
+Água#
+Terra#
+Fogo#
+Vento#
+Evite comprar 2 itens do mesmo tipo ao mesmo tempo.#
+Mude a "Color Depth" de sua área de trabalho para 16-bits quando estiver utilizando o Ragnarok On-line como janela.#
+Por favor, aguarde.#
+Por favor, aguarde.#
+Por favor, aguarde.#
+Por favor, aguarde.#
+Para criar uma sala#
+Para preparar uma sala#
+Para retirar um personagem da sala#
+Para dar Autoridade Máxima#
+Para ver Informações#
+Sala de Chat#
+PES#
+/sit:  Senta.  Se já estiver sentado, levanta.#
+/stand:  Levanta.  Se estiver levantado, senta.#
+/chat:  Cria uma Sala de Chat#
+/q:  Sai de uma Sala de Chat#
+/deal <Nome de um Personagem>:  Propõe uma negociação a um personagem#
+/organize <Nome do Grupo>:  Organiza um grupo#
+/leave:  Deixa um grupo#
+/expel <Nome de um Personagem>:  Exclui um personagem de seu grupo#
+[Alt] + [End]:  Liga ou Desliga a Barra de HP/SP#
+[Alt] + [Home]:  Liga ou Desliga o Cursor do Solo#
+[Insert]:  Faz o personagem sentar ou levantar.  (Atalho para /sit ou /stand)#
+Parabéns! Você ganhou!! Você recebeu #
+!#
+Parabéns! Você ganhou!! Você recebeu #
+ de EXP base!#
+Você é o campeão, mas não pode receber sua recompensa porque está com excesso de carga.#
+Não há nenhum personagem que responda por este nome.#
+ optou por não receber mensagens suas agora.#
+ não pode falar com você neste momento.#
+Ataque Letal efetuado com sucesso.#
+Ataque Letal falhou.#
+Você obteve %s (%d).#
+[Alt] + [=]:  Estabeleça o intervalo de erro entre as cartas.#
+[F10]: Para acertar a janela de Chat / [Alt] + [F10]:  Liga ou Desliga a janela de Chat#
+Como enviar mensagens:  Coloque o nome de um personagem no lado esquerdo da caixa de mensagens e digite a mensagem do lado direito.  A tecla TAB ajuda a alternar entre estas caixas.#
+/emo,/!,/?,/lala,/amor,/amor2,/gt,/ideia,/grr,/grr2,/$,/...,/vlw,/aiai,/desc,/heh,/gt2,/hmm,/ok,/n,/uau,/o,/x,/sos,/go,/snif,/mal,/bj,/bj2,/pif,/s: Emoticons correspondentes a Alt + (1~9) Ctrl + (-=\\)#
+Como falar com o grupo : Adicione "%" na frente das mensagens ou pressione [CTRL] + [ENTER] após digitar a mensagem.#
+Você ainda não tem nível suficiente para realizar negociações.#
+Você ainda não tem nível suficiente para usar Emoticons.#
+Você ainda não tem nível suficiente para sentar.#
+Você ainda não tem nível suficiente para criar uma Sala de Chat.#
+Você ainda não tem nível suficiente para formar Grupos.#
+Você ainda não tem nível suficiente para gritar.#
+Você ainda não tem nível suficiente para Lutar com Jogadores.#
+Comprando Itens#
+Loja de Itens#
+Vendendo Itens#
+Armazém#
+ foi equipado.#
+ foi retirado.#
+Para adicionar nomes para a lista de mensagens#
+Para gravar imagens de telas:  Pressione [Print Screen] ou [Scroll Lock]#
+Dica do Dia#
+^3850a0Você sabia que... ^000000  //^709fed#
+Abrir ao iniciar#
+/tip:  Abre a "Dica do Dia"#
+Há %d Jogadores conectados no momento.#
+(%s) entrou.#
+(%s) saiu.#
+(%s) foi retirado.#
+ %d un#
+%s: %d un#
+%s %s: %d un#
+Itens para venda#
+Comprar Itens#
+Área desconhecida#
+Sua linguagem de cliente não é compatível com a do servidor.#
+Feche sua janela EQUIPES antes de jogar quaisquer itens fora.#
+Esta versão de Ragnarok Online utiliza o Português como idioma principal.#
+Esta opção ainda não está disponível.#
+Sem lista de mensagens.#
+: Mensagem bloqueada.#
+: Bloqueio de mensagem falhou.#
+: Bloqueio de mensagem falhou. Lista de Bloqueados lotada.#
+: está livre.#
+: Comando falhou.#
+: Comando falhou. Lista de Bloqueados lotada.#
+Você não pode colocar espaço no início ou no fim de um nome.#
+Particular#
+Público#
+SP insuficiente#
+HP insuficiente#
+Habilidade falhou.#
+Furto falhou.#
+Troca#
+Envenenamento falhou.#
+Você não pode utilizar este ID neste servidor.#
+Sua velocidade foi aumentada.#
+Sua velocidade voltou ao normal.#
+/memo: Memorizar este local como Ponto de Portal (Requer a habilidade Portal)#
+Área aleatória#
+Selecione uma área para abrir portal#
+Nível de habilidade insuficiente#
+Não há locais memorizados.#
+Você não aprendeu a habilidade Portal.#
+Salvo como Ponto de Portal.#
+Cancelar#
+Há um período de relaxamento após utilizar uma habilidade.#
+Você não pode ter este item porque está com excesso de peso.#
+Acima do peso máximo#
+Carrinho#
+Retirar Carrinho#
+Fazer Comércio#
+Dê um nome a sua loja.#
+Minha Loja#
+Loja de Mercador#
+Comprando Itens#
+%s Compra Falhou %s#
+Em falta#
+%s %d vendido.#
+Itens a venda#
+Habilidade falhou porque você não tem Zeny suficiente.#
+Selecione um alvo.#
+/pk Ligado: Liga Luta com Jogadores.  /pk Desligado: Desliga Luta com Jogadores.#
+Loja#
+Itens do carrinho [Alt] + [W]#
+Informações básicas#
+Você não pode utilizar esta habilidade com esta arma.#
+Compra de %s Falhou. Em falta. Estoque atual %d.#
+Você foi desconectado devido a uma falha entre você e o servidor.#
+Você deve equipar flechas antes.#
+Você não pode atacar e usar habilidades porque está com excesso de peso.#
+Você não pode usar habilidades porque está com excesso de peso.#
+Flecha equipada.#
+Você precisa de uma Gema Vermelha.#
+Você precisa de uma Gema Azul.#
+Força#
+Agilidade#
+Vitalidade#
+Inteligência#
+Destreza#
+Sorte#
+Poder de Ataque#
+Taxa de Defesa#
+Taxa de Precisão#
+Taxa de Ataque Crítico#
+Clã#
+Pontos utilizados para melhorar cada parâmetro#
+Poder de Ataque Mágico#
+Defesa Mágica#
+Taxa de Esquiva#
+Velocidade de Ataque#
+Servidor Superpopulado. Por favor, tente novamente mais tarde.#
+Configuração#
+Servidor Indisponível. Por favor, tente novamente em alguns minutos.#
+Houve um erro ao acessar sua conta. Confirme se a senha está correta.#
+Escolha o penteado#
+Atq.#
+Def.#
+Snap de Ataque Ligado#
+Snap de Ataque Desligado#
+Snap de Habilidade Ligado#
+Snap de Habilidade Desligado#
+/snap: Liga ou Desliga Snap para lutas.  /skillsnap: Liga ou Desliga Snap para Habilidades.  /itemsnap: Liga ou Desliga Snap para itens no chão.#
+Snap de Item Ligado#
+Snap de Item Desligado#
 Snap#
-You cannot carry more than 30,000 of one kind of item.#
-You cannot delete a Character with a level greater than 30. If you want to delete the character please contact a Game Master.#
-You cannot use an NPC shop while in a trade.#
-Name#
-Skill Tree#
-Skill Point: %d#
-Skill has failed.#
-Passive#
-Each Take #
-Even Share#
-Each Take#
-Party Share#
-Party Setup#
-How to share EXP#
-How to share Items#
-Only the Party Leader can change this setting.#
-Toggle Item Amount.#
-Character will be deleted after ^ff0000%d^000000 seconds. Press Cancel to quit.#
-You cannot trade more than 10 types of items per trade.#
-You are underaged.#
-Please enter the deletion password.#
-E-mail Address (Case Sensitive).#
-Character Deletion has failed because you have entered an incorrect e-mail address.#
+Você não pode carregar mais de 30.000 de um mesmo tipo de item.#
+Você não pode deletar um personagem com nível superior a 30.  Se você quiser deletar o personagem contate um Game Master#
+Enquanto estiver em uma troca você não pode utilizar uma loja de um NPC#
+Nome da Loja#
+Árvore de Habilidades#
+Pontos de Habilidade: %d#
+Habilidade falhou.#
+Passiva#
+Dividido individualmente#
+Dividido igualmente#
+Dividido individualmente#
+Dividido coletivamente#
+Configurar Grupo#
+Como dividir EXP#
+Como pegar os Itens#
+Somente o líder do grupo pode mudar esta opção.#
+Não pergunte a quantidade.#
+Personagem será deletado em ^ff0000%d^000000 segundos.  Pressione Cancelar para parar.#
+Você só pode trocar 10 tipos de itens de cada vez.#
+Você é menor de idade.#
+Digite seu endereço de e-mail.#
+Digite seu endereço de e-mail.#
+Confirmação por e-mail indisponível, deixe o campo de e-mail em branco e tente novamente.#
 Enter Second Serial Cord of your Social Security number.#
 Character Deletion has failed because you have entered an incorrect SSN.#
 You can't sell more than 15 types of Items at one time.#
