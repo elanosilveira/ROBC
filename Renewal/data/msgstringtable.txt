@@ -300,178 +300,178 @@ Você é menor de idade.#
 Digite seu endereço de e-mail.#
 Digite seu endereço de e-mail.#
 Confirmação por e-mail indisponível, deixe o campo de e-mail em branco e tente novamente.#
-Enter Second Serial Cord of your Social Security number.#
-Character Deletion has failed because you have entered an incorrect SSN.#
-You can't sell more than 15 types of Items at one time.#
-You are underaged and cannot join this server.#
-HP and SP natural regeneration are disabled because your carried weight is over 50% of the Weight Limit.#
-You can't use Skills or Attack while your carried weight is over 90% of your Weight Limit.#
-Your HP/SP are now being restored naturally.#
-Attack and Skills are now available.#
-Your Game's Exe File is not the latest version.#
-Items are sold out.#
-Save Chat as Text File#
-/savechat: Save a Chat Log#
-Register#
-Reject Whispering#
-Allow Whispering#
-Shows ''Miss'' On#
-Shows ''Miss'' Off#
-Camera Zooming On#
-Camera Zooming Off#
-/camera: Camera Zooming On or Off. /miss: Toggle ''Miss'' display#
-View Skill Info#
-Change Skill#
-Sprite Resolution#
-Texture Resolution#
-Arrange Detail#
-%s Zeny obtained#
-Guild Name#
-Guild Level#
-Guild Master#
-Members#
-Avg.lvl of Members#
-Territory#
-Tendency#
+Digite a segunda série de números de seguridade social.#
+Não foi possível deletar o personagem porque você digitou um SSN incorreto.#
+Você não pode vender mais de 15 tipos de itens de uma só vez.#
+Você é menor de idade, não pode entrar neste servidor.#
+HP/SP não serão recuperados enquanto seu peso atual estiver acima de 50% do peso máximo.#
+Você não pode atacar e usar habilidades enquanto seu peso atual estiver acima de 90% do peso máximo.#
+Seu HP/SP será recuperado normalmente.#
+Você pode atacar e usar habilidades.#
+O seu arquivo .EXE do jogo não é a última versão.#
+Itens estão em falta.#
+Salvar Chat como arquivo de texto#
+/savechat: Para salvar o conteúdo do Chat#
+Registrar#
+Rejeitar mensagem#
+Permitir mensagens#
+Mostrar "Miss"#
+Não Mostrar "Miss"#
+Zoom de câmera Ligado#
+Zoom de câmera Desligado#
+/camera: Liga ou Desliga Zoom de Câmera.  /miss: Liga ou Desliga a opção de Mostrar "Miss".#
+Ver informações da habilidade#
+Mudar habilidade#
+Resolução de Sprites#
+Resolução de Textura#
+Acertar detalhes#
+Você ganhou %s Zeny#
+Nome do Clã#
+Nível do Clã#
+Líder do Clã#
+Membros#
+Nível Médio dos Membros#
+Território#
+Tendência#
 EXP#
-Emblem#
-Tax Point#
-Alliances#
-Antagonists#
-Guild Info#
-Member#
-Position#
-Guild Skill#
-Expel List#
-Announcement#
-Entire Guild List#
-Whispering List#
-Open Whispering Window#
-How to Open Whispering List: Press [Alt] + [H]#
-Open Whispering List Automatically#
-Delete#
-Close since next#
-Last Log-in Time#
-Last Log-in IP#
-Friend Setup#
-Are you sure that you want to delete?#
-Are you sure that you want to leave?#
-Register as a Friend#
-Open 1:1 Chat between Friends#
-Open 1:1 Chat#
-Open 1:1 Chat between Strangers#
-Alarm when receive a 1:1 Chat#
-Are you sure that you want to expel?#
-%s has withdrawn from the guild.#
-Secession Reason: %s#
-You have failed to disband the guild.#
-Disband Reason: %s#
-This ID has been removed.#
-Price: #
-%s has been expelled from our guild.#
-Expulsion Reason: %s#
-You can't put this item on.#
-You can't modify Party Setup.#
-Guild has been Created.#
-You are already in a Guild.#
-That Guild Name already exists.#
- Guild has sent you an invitation. Would you like to join this Guild?#
-He/She is already in a Guild.#
-Offer Rejected#
-Offer Accepted#
-Your Guild is Full.#
-Send (%s) a Guild invitation#
-You haven't learned enough skills for aligning.#
-Aligning completed.#
-You already spent your point for today.#
-Hasn't been a month yet since you aligned this person.#
-Received positive manner point from %s.#
-Received negative manner point from %s.#
-Align with a Good Point#
-Align with a Bad Point#
-Request a deal with (%s)#
-Ask (%s) to join your party#
- Guild is asking you to agree to an Alliance with them. Do you accept?#
-This Guild is already your Ally.#
-You reject the offer#
-You accept the offer#
-They have too many Alliances.#
-You have too many Alliances.#
-Set this guild as an Alliance#
-Guild was successfully disbanded.#
-You have failed to disband the guild due to your incorrect SSN.#
-You have failed to disband the guild because there are guildsmen still present.#
-Set this guild as an Antagonist#
-Choose Hair Color#
-You need the necessary item to create a Guild.#
-Monster Info#
-Name#
-Level#
+Emblema#
+Pontos#
+Alianças#
+Inimigos#
+Informações do Clã#
+Informações dos Membros#
+Posição#
+Habilidades do Clã#
+Histórico de Expulsões#
+Aviso do Clã#
+Lista de Todo o Clã#
+Lista de mensagens#
+Abrir janela de mensagens#
+Como abrir a janela de mensagens: Pressione [Alt] + [H]#
+Abrir janela de mensagens automaticamente#
+Deletar#
+Não abrir da próxima vez#
+Tempo do último log-in#
+IP do último log-in#
+Configurar Contatos#
+Tem certeza que deseja deletar da lista?#
+Tem certeza que deseja sair?#
+Registrar como Contato#
+Abrir Chat particular entre contatos#
+Abrir Chat particular#
+Abrir Chat particular entre não-contatos#
+Avisar quando receber um Chat particular#
+Tem certeza que deseja excluir o personagem?#
+%s saiu do Clã#
+Razão do afastamento: %s#
+Você não conseguiu desfazer o Clã.#
+Razão da Dissolução: %s#
+Este ID foi totalmente apagado.#
+Preço: #
+%s foi expulso do Clã.#
+Razão da expulsão: %s#
+Você não pode equipar este item.#
+Você não pode modificar esta opção do Grupo.#
+Clã criado com sucesso.#
+Você faz parte de um Clã.#
+Já existe um Clã com este nome.#
+ Você foi convidado para se juntar a um Clã.  Gostaria de unir-se a eles?#
+Já pertence a um Clã.#
+Oferta recusada#
+Oferta aceita#
+Seu Clã está lotado.#
+Convidar (%s) para o clã.#
+Você não aprendeu as habilidades necessárias para alinhar-se.#
+Alinhamento efetuado.#
+Você já usou seu ponto do dia.#
+Ainda não faz um mês que você alinhou esta pessoa.#
+A prática de "spam" não é legal.#
+Por favor reveja seu comportamento.#
+Alinhando-se com um Ponto Bom#
+Alinhando-se com um Ponto Ruim#
+Solicitar negociação com (%s)#
+Convidar (%s) para o Grupo#
+ Este Clã está propondo uma Aliança. Você aceita?#
+Vocês já são Aliados.#
+Você recusou a oferta#
+Você aceitou a oferta#
+Eles já têm  3 Aliados.#
+Vocês já têm 3 Aliados.#
+Solicitar uma aliança com este Clã.#
+Clã desfeito com sucesso.#
+Você não conseguiu desfazer o Clã por causa de seu SSN errado.#
+Você não conseguiu desfazer o Clã porque ainda há membros.#
+Estabelecer este Clã como um Inimigo#
+Escolher cor do cabelo#
+Há um item necessário para organizar um Clã.#
+Informações de monstro#
+Nome#
+Nível#
 HP#
-Size#
-Type#
-MDEF#
-Element#
-Neutral#
-Water#
-Earth#
-Fire#
-Wind#
-Poison#
-Holy#
-Shadow#
-Ghost#
-Undead#
-You can't create items yet.#
-Item List you can craft#
- Create#
-'s materials#
- item creation failed.#
- item created successfully.#
-Failed to create %s.#
-Successfully created %s.#
-You are not the required lvl.#
-Too high lvl for this job.#
-Not the suitable job for this type of work.#
-Record a message in the Talkie Box#
-Please type a message for the Talkie Box#
-Send to Guild#
-You didn't pay for this ID. Would you like to pay for it now?#
-Server is jammed due to overpopulation. Please try again after few minutes.#
-Server still recognizes your last log-in. Please try again after a few minutes.#
-Release Falcon#
-Dismount#
-Small#
-Medium#
-Large#
-Double#
-Triple#
-Quadruple#
-You are prohibited to log in until %s.#
-'s #
-'s Fire #
-'s Ice #
-'s Wind #
-'s Earth #
-211.239.161.246#
+Tam.#
+Raça#
+DEFM#
+Atrib.#
+Neutro#
+Água#
+Terra#
+Fogo#
+Vento#
+Veneno#
+Sagrado#
+Sombrio#
+Fant.#
+Maldito#
+Você ainda não pode criar itens.#
+Lista de itens que você pode fazer#
+ Criar#
+Materiais#
+ Falha ao criar item.#
+ Item criado com sucesso.#
+Falha ao criar item.#
+Item criado com sucesso.#
+Você não possui o Nível necessário.#
+Nível muito elevado para esta classe.#
+Classe inadequada para este tipo de trabalho.#
+Gravar mensagens na caixa de mensagens#
+Digite as mensagens para a caixa de mensagens#
+Enviar para Clã#
+Ocorreu um erro. Verifique a existência de créditos em sua conta em nosso site.#
+Não foi possível conectar. Por favor, tente novamente em alguns minutos.#
+O servidor ainda reconhece seu último log-in.  Tente novamente em alguns minutos.#
+Soltar Falcão#
+Desmontar de Peco Peco#
+Pequeno#
+Médio#
+Grande#
+Bi#
+Trip#
+Quád#
+Seu acesso está bloqueado até %s.#
+ #
+ Flamejante#
+ Glacial#
+ Trovejante#
+ Mineral#
+210.14.27.200#
 6900#
-http://www.ragnarok.co.kr#
-Kill %s#
-Very Strong #
-Very Very Strong #
-Very Very Very Strong #
-The Reason of Expulsion#
- Attack speed increased.#
- Attack speed decreased.#
- Weapon damage is improved.#
- Weapon damage is reduced.#
- Cast delay is reduced.#
- Cast delay has returned to normal.#
- Weapon is temporarily enchanted with Poison.#
- Weapon is temporarily enchanted with Holy element.#
- Weapon has changed back to normal.#
- Armor is temporarily enchanted with Holy element.#
- Armor has changed back to normal.#
+http://www.levelupgames.com.br/ragnarok#
+Usar ataque letal em %s#
+Forte#
+Muito Forte#
+Fortíssima#
+Razão da expulsão#
+Velocidade de Ataque aumentada.#
+Velocidade de Ataque voltou ao normal.#
+Dano da Arma aumentado.#
+Dano da Arma reduzido.#
+Tempo de Conjuração reduzido.#
+Tempo de Conjuração de volta ao normal.#
+Sua arma foi encantada com Veneno.#
+Sua arma foi abençoada com Força Sagrada.#
+Sua arma voltou ao normal.#
+Sua armadura foi encantada com Poder Sagrado.#
+Sua armadura voltou ao normal.#
 Barrier formed.#
 Barrier canceled.#
  Weapon Perfection Initiated.#
